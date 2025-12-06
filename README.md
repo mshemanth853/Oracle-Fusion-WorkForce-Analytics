@@ -49,3 +49,16 @@ Includes Avg manager feedback , company satisfaction , work life balance , satis
 ### 6️ Training and Skill Development
 Includes Noo of courses , avg score , total employees who completed courses , employee and completion date , avg score by course , no of skills , salary and score by department  and a date slicer.
 ![Key Insights Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(132).png?raw=true)
+
+*(Exported with current values — reflects the final dashboard view.)*
+
+#  My Details :
+
+**Name:** M S Hemanth  
+**Qualification:** B.Tech ECE Graduate (2025)  
+**Skills:**  
+- Python, Data Structures & Algorithms  
+- NumPy, Pandas  
+- SQL, PostgreSQL  
+**Tools:** Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab, SQL Workbench, Power BI  
+**Email:** mshemanth853@gmail.com  
