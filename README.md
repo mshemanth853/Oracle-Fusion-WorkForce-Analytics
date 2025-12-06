@@ -17,35 +17,35 @@ Link : https://excelx.com/practice-data/generators/hr-analytics/
 # Power BI Dashboard Pages :
 
 ### 1️ Overview
-Includes total patients admitted, total revenue generated, average length of stay in hospital, total emergency cases, and gender distribution.  
-![Overview Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(127).png?raw=true)
+Includes total employees, average salary , leave days , performance rating , performance rating, hire dates by year , employees by department and a date slicer.
+![WorkForce Overview Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(127).png?raw=true)
 
 ---
 
-### 2️ Admissions
-Number of admissions per month, weekday vs weekend admissions, type of admission (emergency & non-emergency), and a dynamic age slicer.  
-![Admissions Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(85).png?raw=true)
+### 2️ Attrition and Retail Analysis
+Includes total number of hires , total termination , number of current openings , application by department , terminations by month , termination by department , hireing by years and a date slicer.
+![Admissions Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(128).png?raw=true)
 
 ---
 
-### 3️ Billing
-Insurance companies and their number of clients, count of each medical condition (Cancer, Asthma, etc.), and average billing vs length of stay in days.  
-![Billing Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(86).png?raw=true)
+### 3️ Talent Performance and Compensation
+Average salary after compensation , No of eligible employees for compensation , prominent skill , employees score , salary by department , salary through year , skill share of employees and a date slicer.
+![Billing Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(129).png?raw=true)
 
 ---
 
-### 4️ Doctors
-Total doctor count, average patients per doctor, hospital with the most emergency cases, top performing doctor by revenue, and admissions count by year.  
-![Doctors Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(87).png?raw=true)
+### 4️ Hiring and Recruitment Funnel
+Includes No of departments, No of openings , No of applicants for new posts ,  most hires by department , souce of application , new employees by department , avg salary for new employee , current openings by department and a date slicer.
+![Doctors Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(130).png?raw=true)
 
 ---
 
-### 5️ Medications
-Total medications prescribed, types of medication, count of each medication taken, test results during discharge, and count of medications by admission type.  
-![Medications Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(88).png?raw=true)
+### 5️ Engagement and Surveys
+Includes Avg manager feedback , company satisfaction , work life balance , satisfaction by month , worklife balance by month , surveys by month , satisfaction and salary by department and a date slicer.
+![Medications Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(131).png?raw=true)
 
 ---
 
-### 6️ Key Insights
-Covers the main findings from data cleaning, exploration, and visualization.  
-![Key Insights Page](https://github.com/mshemanth853/-Health-Care--Dashboard-Data-Analyst-Project/blob/main/Screenshot%20(89).png?raw=true)
+### 6️ Training and Skill Development
+Includes Noo of courses , avg score , total employees who completed courses , employee and completion date , avg score by course , no of skills , salary and score by department  and a date slicer.
+![Key Insights Page](https://github.com/mshemanth853/Oracle-Fusion-WorkForce-Analytics/blob/main/Screenshot%20(132).png?raw=true)
