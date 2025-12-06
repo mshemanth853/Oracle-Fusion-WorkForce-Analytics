@@ -1,9 +1,16 @@
-# Oracle-Fusion-WorkForce-Analytics
-I Have created a WorkForce Analytics by using Oracle Fusion style Dataset  . Used SQL WorkBench to solve Questions and then Visualized  using PowerBI
+# **Oracle-Fusion-WorkForce-Analytics**
+
+### **SQL-driven Workforce Analytics (Oracle Fusion–style dataset) — DDL, advanced SQL scripts, and multi-page Power BI dashboards**
+
+I built a complete Workforce Analytics project using a synthetic dataset modeled after Oracle Fusion HCM and Finance modules.  
+The project focuses on solving real HR and workforce questions using SQL WorkBench, where I wrote complex SQL queries involving joins, window functions, aggregations, and analytical logic to extract meaningful insights.
+
+These insights were then visualized in Power BI across multiple dashboard pages, covering employee overview, attrition, compensation, performance, hiring funnel, engagement, and training effectiveness.
+
 
 # Project Overview :
-My project explores artificially generated dataset similar to a Company dataset which has multiple tables like emplyee details , compensation , job opening, performance reviews and etc .
-My goal was to go through the dataset solve questions using SQL WorkBench where I used multiple joints , window and agg function to solve complex questions, used the insights to visualize the dataset through PowerBI
+My project explores artificially generated dataset similar to a Company dataset which has multiple tables like employee details , compensation , job opening, performance reviews and etc .
+My goal was to go through the dataset where I used my Oracle Fusion HCM and Finances studies to solved question using SQL WorkBench where I used multiple joints , window and agg function to solve complex questions, used the insights to visualize the dataset through PowerBI
 
 # Tools Used :
 SQL WorkBench
@@ -58,7 +65,8 @@ Includes Noo of courses , avg score , total employees who completed courses , em
 **Qualification:** B.Tech ECE Graduate (2025)  
 **Skills:**  
 - Python, Data Structures & Algorithms  
-- NumPy, Pandas  
+- Libraries(NumPy, Pandas)
+- Oracle Fusion ( HCM , Finances , OTBI , BI Publisher) 
 - SQL, PostgreSQL  
 **Tools:** Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab, SQL Workbench, Power BI  
 **Email:** mshemanth853@gmail.com  
